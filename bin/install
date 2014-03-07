@@ -1,0 +1,2 @@
+#!/bin/sh
+git clone https://github.com/$1/$2 .themes/$2; git reset HEAD --hard; git clean -f -d; rbenv exec rake install[$2] preview
