@@ -2,35 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91001ce6-4e27-43c0-9493-4323b1c6d8bc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/sidebar/_base.scss" afterPath="$PROJECT_DIR$/sass/partials/sidebar/_base.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/custom/_fonts.scss" afterPath="$PROJECT_DIR$/sass/custom/_fonts.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/custom/_layout.scss" afterPath="$PROJECT_DIR$/sass/custom/_layout.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_navigation.scss" afterPath="$PROJECT_DIR$/sass/partials/_navigation.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_sidebar.scss" afterPath="$PROJECT_DIR$/sass/partials/_sidebar.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/custom/_styles.scss" afterPath="$PROJECT_DIR$/sass/custom/_styles.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_syntax.scss" afterPath="$PROJECT_DIR$/sass/partials/_syntax.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/base/_theme.scss" afterPath="$PROJECT_DIR$/sass/base/_theme.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/base/_typography.scss" afterPath="$PROJECT_DIR$/sass/base/_typography.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/archive_post.html" afterPath="$PROJECT_DIR$/source/_includes/archive_post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/article.html" afterPath="$PROJECT_DIR$/source/_includes/article.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/atom.xml" afterPath="$PROJECT_DIR$/source/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/custom/category_feed.xml" afterPath="$PROJECT_DIR$/source/_includes/custom/category_feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_layouts/default.html" afterPath="$PROJECT_DIR$/source/_layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/disqus.html" afterPath="$PROJECT_DIR$/source/_includes/disqus.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/facebook_like.html" afterPath="$PROJECT_DIR$/source/_includes/facebook_like.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/asides/github.html" afterPath="$PROJECT_DIR$/source/_includes/asides/github.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/javascripts/github.js" afterPath="$PROJECT_DIR$/source/javascripts/github.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/head.html" afterPath="$PROJECT_DIR$/source/_includes/head.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/custom/head.html" afterPath="$PROJECT_DIR$/source/_includes/custom/head.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/custom/header.html" afterPath="$PROJECT_DIR$/source/_includes/custom/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/custom/category_feed.xml" afterPath="$PROJECT_DIR$/source/_includes/custom/category_feed.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.html" afterPath="$PROJECT_DIR$/source/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/javascripts/modernizr-2.0.js" afterPath="$PROJECT_DIR$/source/javascripts/modernizr-2.0.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/javascripts/octopress.js" afterPath="$PROJECT_DIR$/source/javascripts/octopress.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/javascripts/pinboard.js" afterPath="$PROJECT_DIR$/source/javascripts/pinboard.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/asides/recent_posts.html" afterPath="$PROJECT_DIR$/source/_includes/asides/recent_posts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/screen.scss" afterPath="$PROJECT_DIR$/sass/screen.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/custom/header.html" afterPath="$PROJECT_DIR$/source/_includes/custom/header.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/post/sharing.html" afterPath="$PROJECT_DIR$/source/_includes/post/sharing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/archive_post.html" afterPath="$PROJECT_DIR$/source/_includes/archive_post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/custom/_styles.scss" afterPath="$PROJECT_DIR$/sass/custom/_styles.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/base/_typography.scss" afterPath="$PROJECT_DIR$/sass/base/_typography.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_layouts/default.html" afterPath="$PROJECT_DIR$/source/_layouts/default.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_sidebar.scss" afterPath="$PROJECT_DIR$/sass/partials/_sidebar.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/javascripts/octopress.js" afterPath="$PROJECT_DIR$/source/javascripts/octopress.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/asides/recent_posts.html" afterPath="$PROJECT_DIR$/source/_includes/asides/recent_posts.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/atom.xml" afterPath="$PROJECT_DIR$/source/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/sidebar/_base.scss" afterPath="$PROJECT_DIR$/sass/partials/sidebar/_base.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/javascripts/twitter.js" afterPath="$PROJECT_DIR$/source/javascripts/twitter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/disqus.html" afterPath="$PROJECT_DIR$/source/_includes/disqus.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/base/_theme.scss" afterPath="$PROJECT_DIR$/sass/base/_theme.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/custom/_fonts.scss" afterPath="$PROJECT_DIR$/sass/custom/_fonts.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_navigation.scss" afterPath="$PROJECT_DIR$/sass/partials/_navigation.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/facebook_like.html" afterPath="$PROJECT_DIR$/source/_includes/facebook_like.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/asides/github.html" afterPath="$PROJECT_DIR$/source/_includes/asides/github.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/custom/_layout.scss" afterPath="$PROJECT_DIR$/sass/custom/_layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/javascripts/github.js" afterPath="$PROJECT_DIR$/source/javascripts/github.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/partials/_syntax.scss" afterPath="$PROJECT_DIR$/sass/partials/_syntax.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/screen.scss" afterPath="$PROJECT_DIR$/sass/screen.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/custom/head.html" afterPath="$PROJECT_DIR$/source/_includes/custom/head.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/javascripts/pinboard.js" afterPath="$PROJECT_DIR$/source/javascripts/pinboard.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_includes/article.html" afterPath="$PROJECT_DIR$/source/_includes/article.html" />
     </list>
     <ignored path="mcamou.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -96,7 +96,7 @@
       <file leaf-file-name="_config.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="188" max-vertical-offset="1620">
+            <state vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="1590">
               <caret line="44" column="51" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="51" />
               <folding />
             </state>
@@ -150,7 +150,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -162,7 +162,12 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -173,7 +178,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,46 +285,47 @@
       <created>1394196226390</created>
       <updated>1394196226390</updated>
       <workItem from="1394196226974" duration="2584000" />
+      <workItem from="1394201629998" duration="627000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2584000" />
+    <option name="totallyTimeSpent" value="3211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="1578" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Unicode Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Unicode Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Navigate" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Navigate" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -340,6 +345,22 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="1590">
+          <caret line="44" column="51" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/asides/sitebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="675">
+          <caret line="24" column="156" selection-start-line="24" selection-start-column="156" selection-end-line="24" selection-end-column="156" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="188" max-vertical-offset="1620">
