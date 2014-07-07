@@ -5,7 +5,7 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Welcome to the π dimension</title>
+  <title>Implementing HTTP Basic authentication with Spray - Welcome to the π dimension</title>
   <meta name="author" content="Mario Camou">
 
   
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://mcamou.github.io/">
+  <link rel="canonical" href="http://mcamou.github.io/blog/2014/07/07/implementing-http-basic-authentication-with-spray/">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
    <link href="/stylesheets/data-table.css" media="screen, projection" rel="stylesheet" type="text/css" />
@@ -66,15 +66,12 @@
 </nav> -->
   <div id="main">
     <div id="content">
-      <div class="blog-index">
+      <div>
+<article class="hentry" role="article">
   
-  
-  
-    <article>
-      
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2014/07/07/implementing-http-basic-authentication-with-spray/">Implementing HTTP Basic Authentication With Spray</a></h1>
+      <h1 class="entry-title">Implementing HTTP Basic Authentication With Spray</h1>
     
     
       <p class="meta">
@@ -97,7 +94,7 @@
   </header>
 
 
-  <div class="entry-content"><p>This post comes from my answer to.</p>
+<div class="entry-content"><p>This post comes from my answer to.</p>
 
 <p>I&rsquo;ve been working with <a href="http://spray.io">Spray</a> for almost a year now and have been thinking of blogging about some of the things I&rsquo;ve found out during that time. After answering <a href="http://stackoverflow.com/questions/24501167/spray-authentication-method-with-basicauth/24511242#24511242">this question</a> on StackOverflow I realized I had most of a blog post there, so here&rsquo;s my attempt at explaining how to make HTTP Basic authentication work with Spray.</p>
 
@@ -211,18 +208,67 @@ case class ApiUser(login: String,
 
 <p>I hope this has been useful. At some point I would like to extend this to use multiple authentication schemes (starting with SSL Client Certificate and possibly continuing on to use OAuth), as well as extricate the code from the application I am working on and perhaps create a reusable library, but that will be for the future. For now, enjoy!</p>
 </div>
+
+
+  <footer>
+    <p class="meta">
+      
   
+
+<span class="byline author vcard">Posted by <span class="fn">Mario Camou</span></span>
+
+      
+
+
+
+
+
+
+
+
   
 
 
-    </article>
+<time datetime="2014-07-07T16:15:00+02:00" pubdate data-updated="true">Jul 7<span>th</span>, 2014</time>
+      
+
+<span class="categories">
   
-  <div class="pagination">
+    <a class='category' href='/blog/categories/akka/'>Akka</a>, <a class='category' href='/blog/categories/scala/'>Scala</a>, <a class='category' href='/blog/categories/spray/'>Spray</a>
+  
+</span>
+
+
+    </p>
     
-    <a href="/blog/archives/"> Archives </a>
-    
-  </div>
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://mcamou.github.io/blog/2014/07/07/implementing-http-basic-authentication-with-spray/" data-via="thedoc" data-counturl="http://mcamou.github.io/blog/2014/07/07/implementing-http-basic-authentication-with-spray/" >Tweet</a>
+  
+  
+  <div class="g-plusone" data-size="medium"></div>
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
 </div>
+
+    
+    <p class="meta">
+      
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
 <aside class="sidebar">
   
     <section id="titles">
@@ -280,6 +326,7 @@ case class ApiUser(login: String,
   
 </aside>
 
+
     </div>
   </div>
   <footer role="contentinfo"><p>
@@ -294,7 +341,10 @@ case class ApiUser(login: String,
       var disqus_shortname = 'mcamou';
       
         
-        var disqus_script = 'count.js';
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://mcamou.github.io/blog/2014/07/07/implementing-http-basic-authentication-with-spray/';
+        var disqus_url = 'http://mcamou.github.io/blog/2014/07/07/implementing-http-basic-authentication-with-spray/';
+        var disqus_script = 'embed.js';
       
     (function () {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
