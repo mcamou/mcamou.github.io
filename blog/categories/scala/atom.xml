@@ -4,7 +4,7 @@
   <title><![CDATA[Category: scala | Welcome to the π dimension]]></title>
   <link href="http://mcamou.github.io/blog/categories/scala/atom.xml" rel="self"/>
   <link href="http://mcamou.github.io/"/>
-  <updated>2015-12-06T20:43:42+01:00</updated>
+  <updated>2015-12-06T20:45:46+01:00</updated>
   <id>http://mcamou.github.io/</id>
   <author>
     <name><![CDATA[Mario Camou]]></name>
@@ -18,9 +18,9 @@
     <link href="http://mcamou.github.io/blog/2015/12/06/scala-akka-and-docker-oh-my/"/>
     <updated>2015-12-06T20:41:00+01:00</updated>
     <id>http://mcamou.github.io/blog/2015/12/06/scala-akka-and-docker-oh-my</id>
-    <content type="html"><![CDATA[<p>I&rsquo;ve been selected to present at (Scala eXchange 2015)[<a href="https://skillsmatter.com/conferences/6862-scala-exchange-2015">https://skillsmatter.com/conferences/6862-scala-exchange-2015</a>]! I will be talking about Docker, and how to use it to make life easier for Scala developers. Hope to see you there!</p>
+    <content type="html"><![CDATA[<p>I&rsquo;ve been selected to present at <a href="https://skillsmatter.com/conferences/6862-scala-exchange-2015">Scala eXchange 2015</a>! I will be talking about Docker, and how to use it to make life easier for Scala developers. Hope to see you there!</p>
 
-<p>The presentation slides are (here)[scala-akka-docker/].</p>
+<p>The presentation slides are <a href="scala-akka-docker/">here</a>. I will add the link to the presentation video after the fact.</p>
 ]]></content>
   </entry>
   
