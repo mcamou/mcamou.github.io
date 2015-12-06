@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to the π dimension]]></title>
   <link href="http://mcamou.github.io/atom.xml" rel="self"/>
   <link href="http://mcamou.github.io/"/>
-  <updated>2015-12-06T20:36:28+01:00</updated>
+  <updated>2015-12-06T20:43:42+01:00</updated>
   <id>http://mcamou.github.io/</id>
   <author>
     <name><![CDATA[Mario Camou]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Scala, Akka and Docker, oh my!]]></title>
+    <link href="http://mcamou.github.io/blog/2015/12/06/scala-akka-and-docker-oh-my/"/>
+    <updated>2015-12-06T20:41:00+01:00</updated>
+    <id>http://mcamou.github.io/blog/2015/12/06/scala-akka-and-docker-oh-my</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve been selected to present at (Scala eXchange 2015)[<a href="https://skillsmatter.com/conferences/6862-scala-exchange-2015">https://skillsmatter.com/conferences/6862-scala-exchange-2015</a>]! I will be talking about Docker, and how to use it to make life easier for Scala developers. Hope to see you there!</p>
+
+<p>The presentation slides are (here)[scala-akka-docker/].</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Implementing HTTP Basic authentication with Spray]]></title>
