@@ -4,7 +4,7 @@
   <title><![CDATA[Welcome to the π dimension]]></title>
   <link href="http://mcamou.github.io/atom.xml" rel="self"/>
   <link href="http://mcamou.github.io/"/>
-  <updated>2014-07-07T18:13:21+02:00</updated>
+  <updated>2014-07-15T14:40:44+02:00</updated>
   <id>http://mcamou.github.io/</id>
   <author>
     <name><![CDATA[Mario Camou]]></name>
@@ -18,9 +18,7 @@
     <link href="http://mcamou.github.io/blog/2014/07/07/implementing-http-basic-authentication-with-spray/"/>
     <updated>2014-07-07T16:15:00+02:00</updated>
     <id>http://mcamou.github.io/blog/2014/07/07/implementing-http-basic-authentication-with-spray</id>
-    <content type="html"><![CDATA[<p>This post comes from my answer to.</p>
-
-<p>I&rsquo;ve been working with <a href="http://spray.io">Spray</a> for almost a year now and have been thinking of blogging about some of the things I&rsquo;ve found out during that time. After answering <a href="http://stackoverflow.com/questions/24501167/spray-authentication-method-with-basicauth/24511242#24511242">this question</a> on StackOverflow I realized I had most of a blog post there, so here&rsquo;s my attempt at explaining how to make HTTP Basic authentication work with Spray.</p>
+    <content type="html"><![CDATA[<p>I&rsquo;ve been working with <a href="http://spray.io">Spray</a> for almost a year now and have been thinking of blogging about some of the things I&rsquo;ve found out during that time. After answering <a href="http://stackoverflow.com/questions/24501167/spray-authentication-method-with-basicauth/24511242#24511242">this question</a> on StackOverflow I realized I had most of a blog post there, so here&rsquo;s my attempt at explaining how to make HTTP Basic authentication work with Spray.</p>
 
 <p>When implementing authentication for a REST API, I first came upon the <a href="https://github.com/spray/spray/wiki/Authentication-Authorization">Authentication and Authorization</a> page on the Spray wiki. That page says the documentation is for for Spray 0.9.0, however, I&rsquo;ve found most of it still applies as of Spray 1.3.1 running on Akka 2.3.4.</p>
 
