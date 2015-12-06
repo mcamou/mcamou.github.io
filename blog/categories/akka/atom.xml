@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Akka | Welcome to the π dimension]]></title>
+  <title><![CDATA[Category: akka | Welcome to the π dimension]]></title>
   <link href="http://mcamou.github.io/blog/categories/akka/atom.xml" rel="self"/>
   <link href="http://mcamou.github.io/"/>
-  <updated>2014-07-15T14:40:44+02:00</updated>
+  <updated>2015-12-06T18:47:45+01:00</updated>
   <id>http://mcamou.github.io/</id>
   <author>
     <name><![CDATA[Mario Camou]]></name>

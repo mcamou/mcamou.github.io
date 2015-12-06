@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>reveal.js – The HTML Presentation Framework</title>
+
+		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+		<meta name="author" content="Hakim El Hattab">
+
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/black.css" id="theme">
+
+		<!-- Code syntax highlighting -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+      <div class="slides"><section id="title" class="slide">
+<h2>Scala, Akka and Docker, oh my!</h2><h4>Scala and Docker, living together</h4><p><a href="http://tecnoguru.com">Mario Camou</a> / <a href="https://twitter.com/thedoc">@thedoc</a></p>
+</section>
+<section id="disclaimer" class="slide" data-has-notes="true">
+<h2>Who am I?</h2><ul>
+<li>I've been working with Scala for a few years now</li>
+<li>Recently decided to move a project to Docker</li>
+<li>Working at eBay(???) PELOS</li>
+</ul><aside class="notes"><ul>
+<li>I&#39;ve been working with Scala for a few years now</li>
+<li>I&#39;ve found that many people are curious about Docker</li>
+<li>I&#39;ve used it now in one project and found that, although simple, info is not easily organized</li>
+<li>I hope this is useful</li>
+</ul></aside>
+</section>
+<section>
+  <h2>Agenda</h2>
+  <section>
+    <p/>
+  </section>
+<section id="agenda-introduction_to_docker" class="slide">
+  <b>Introduction to Docker</b>
+  <p/>
+<ul>
+<li>What is Docker?</li>
+<li>Why Docker?</li>
+<li>Docker basics</li>
+</ul>
+</section>
+<section id="agenda-deployment_using_docker" class="slide">
+  <p>Introduction to Docker</p>
+  <b>Deployment using Docker</b>
+  <p/>
+<ul>
+<li>The Docker workflow</li>
+<li>Caveats</li>
+</ul>
+</section>
+<section id="agenda-docker_and_scala" class="slide">
+<p>Introduction to Docker</p>
+<p>Deployment using Docker</p>
+<b>Docker and Scala</b>
+  <p/>
+<ul>
+<li>Dockerizing a Scala application</li>
+<li>Integrating Docker with sbt</li>
+<li>Testing with Docker</li>
+<li>Docker and Akka</li>
+</ul>
+</section>
+</section>
+<section>
+  <h2>Introduction to Docker</h2>
+<p/>
+<ul>
+<li>What is Docker?</li>
+<li>Why Docker?</li>
+<li>Docker basics</li>
+</ul>
+</section>
+<section>
+  <h2>What is Docker?</h2>
+  <section>
+    <p/>
+  </section>
+  <section>
+    <blockquote>"A way to pack, ship and run any application as a lightweight container"</blockquote>
+    - From the Docker website
+  </section>
+  <section>
+    A way for developers to package any application to run on (almost) any infrastructure
+  </section>
+  <section>
+    <h4>The build process</h4>
+    <p>[INSERT DIAGRAM]: Source -> build system -> artifacts</p>
+  </section>
+  <section>
+    <h4>The deployment process</h4>
+    <p>[INSERT DIAGRAM]: Artifacts -> infrastructure (multiple methods)</p>
+  </section>
+  <section>
+    <h4>Deployment with Docker</h4>
+    <p>[INSERT DIAGRAM]: Artifacts -> docker image -> Multiple infrastructures</p>
+  </section>
+  <section>
+    <h4>What is a Docker image?</h4>
+    <ul>
+      <li class="fragment">Consistent, standard way of packaging applications</li>
+      <li class="fragment">Similar to Unix chroot</li>
+      <li class="fragment">Includes all dependencies, configuration files, etc.</li>
+      <li class="fragment">Snapshot of a container</li>
+    </ul>
+  </section>
+  <section>
+    <h4>What is a Docker container?</h4>
+    <ul>
+      <li class="fragment">An instance of a running image</li>
+      <li class="fragment">Isolated set of resources
+      <ul class="fragment">
+        <li>Processes</li>
+        <li>Networking</li>
+        <li>Filesystem</li>
+      </ul>
+      </li>
+      <li class="fragment">Can run on multiple runtimes: libcontainer, LXC, KVM, BSD Jails, Solaris Zones, etc</li>
+    </ul>
+  </section>
+</section>
+  
+  <!-- PELOS -->
+<section id="agenda-deployment_using_docker" class="slide">
+  <h2>Deployment using Docker</h2>
+  <p/>
+<ul>
+<li>The Docker workflow</li>
+<li>Caveats</li>
+</ul>
+</section>
+  <!-- PELOS -->
+<section id="agenda-docker_and_scala" class="slide">
+<h2>Docker and Scala</h2>
+  <p/>
+<ul>
+<li>Dockerizing a Scala application</li>
+<li>Integrating Docker with sbt</li>
+<li>Testing with Docker</li>
+<li>Docker and Akka</li>
+</ul>
+</section>
+  <!-- PELOS -->
+</section>
+</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+
+			// Full list of configuration options available at:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+				// Optional reveal.js plugins
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true },
+					{ src: 'plugin/notes/notes.js', async: true }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>
