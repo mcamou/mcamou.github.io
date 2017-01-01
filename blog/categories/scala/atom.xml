@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Scala | Welcome to the π dimension]]></title>
+  <title><![CDATA[Category: scala | Welcome to the π dimension]]></title>
   <link href="http://mcamou.github.io/blog/categories/scala/atom.xml" rel="self"/>
   <link href="http://mcamou.github.io/"/>
-  <updated>2014-07-15T14:40:44+02:00</updated>
+  <updated>2015-12-06T20:45:46+01:00</updated>
   <id>http://mcamou.github.io/</id>
   <author>
     <name><![CDATA[Mario Camou]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Scala, Akka and Docker, oh my!]]></title>
+    <link href="http://mcamou.github.io/blog/2015/12/06/scala-akka-and-docker-oh-my/"/>
+    <updated>2015-12-06T20:41:00+01:00</updated>
+    <id>http://mcamou.github.io/blog/2015/12/06/scala-akka-and-docker-oh-my</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve been selected to present at <a href="https://skillsmatter.com/conferences/6862-scala-exchange-2015">Scala eXchange 2015</a>! I will be talking about Docker, and how to use it to make life easier for Scala developers. Hope to see you there!</p>
+
+<p>The presentation slides are <a href="scala-akka-docker/">here</a>. I will add the link to the presentation video after the fact.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Implementing HTTP Basic authentication with Spray]]></title>
