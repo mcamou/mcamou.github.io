@@ -1,3 +1,17 @@
-baseURL: http://example.org/
+baseURL: https://mcamou.github.io/
 languageCode: en-us
-title: My New Hugo Site
+title: Welcome to the π dimension
+theme: paper
+
+enableEmoji: true
+enableGitInfo: true
+disqusShortname: mcamou
+
+permalinks:
+  content: /:year/:month/:day/:title/
+
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
+
