@@ -1,9 +1,13 @@
 baseURL: https://mcamou.github.io/
 languageCode: en-us
 title: Welcome to the π dimension
+disablePathToLower: true
+author:
+  name: Mario Camou
+
 theme:
   - hugo-atom-feed
-  - paper
+  - mainroad
 
 enableEmoji: true
 enableGitInfo: true
@@ -26,3 +30,41 @@ outputs:
     - HTML
     - RSS
     - ATOM
+
+params: # For the mainroad theme
+  subtitle: Software development and other random ramblings
+  description: Software, the Universe and Everything
+  copyright: Mario Camou
+  opengraph: true
+  schema: true
+  twitter_cards: true
+  readmore: false
+  authorbox: true
+  toc: true
+  pager: true
+  post_meta:
+  #  - author
+    - date
+    - categories
+    - translations
+  mainSections:
+    - posts
+  dateformat: 2006-01-02
+  sidebar:
+    home: right
+    list: right
+    single: right
+    widgets:
+      - social
+      - search
+      - recent
+      - categories
+      - taglist
+  widgets:
+    recent_num: 5
+    tags_counter: false
+    social:
+      twitter: thedoc
+      linkedin: mcamou
+      github: mcamou
+
